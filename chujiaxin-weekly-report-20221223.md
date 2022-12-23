@@ -16,7 +16,7 @@
 
 * 线性回归模型
   
-  ![](C:\Users\夹心\AppData\Roaming\marktext\images\2022-12-23-20-03-00-image.png)
+  ![](https://github.com/chujiaxin111/Weekly-report/blob/main/image/Snipaste_2022-12-23_20-56-34.png)
   
   代价函数：J<sub>(θ0​,θ1​)​</sub>=1/2m ​∑<sup>m</sup><sub>i=1</sub>​(h<sub>θ</sub>​(x<sup>(i)</sup>)−y<sup>(i)</sup>)<sup>2</sup>
   
@@ -28,7 +28,7 @@
 
 * 多元梯度下降法
   
-  <img src="file:///C:/Users/夹心/AppData/Roaming/marktext/images/2022-12-23-20-36-15-image.png" title="" alt="" width="226">
+  <img src="https://github.com/chujiaxin111/Weekly-report/blob/main/image/Snipaste_2022-12-23_20-57-37.png" title="" alt="" width="226">
   
   * 特征缩放
   
@@ -50,7 +50,7 @@
 
 * 正规方程法可以不用特征缩放。其最佳的θ向量可由下式计算得出：
   
-  <img src="file:///C:/Users/夹心/AppData/Roaming/marktext/images/2022-12-23-20-42-20-image.png" title="" alt="" width="185">
+  <img src="https://github.com/chujiaxin111/Weekly-report/blob/main/image/Snipaste_2022-12-23_20-57-47.png" title="" alt="" width="185">
 
 * 如何判断何时用正规方程法还是梯度下降法：
   
